@@ -1,0 +1,51 @@
+State, Drink
+Alabama , Dr. Pepper
+Alaska , Red Bull
+Arizona , Tab Cola
+Arkansas , Ginger Ale
+California , Cream Soda
+Colorado , Sweet Tea
+Connecticut , Squirt
+Delaware , Dr. Pepper
+Florida , Squirt
+Georgia , Nehi
+Hawaii , Diet Coke
+Idaho , Diet Coke
+Illinois , Jarritos
+Indiana , Sierra Mist
+Iowa , Squirt
+Kansas , Fanta
+Kentucky , Root Beer
+Louisiana , Sprite
+Maine , Root Beer
+Maryland , Jones Soda
+Massachusetts , Mountain Dew
+Michigan , Slurpees
+Minnesota , Orange Soda
+Mississippi , Sunkist
+Missouri , Faygo
+Montana , Pepsi
+Nebraska , Sprite
+Nevada , Crush
+New Hampshire , Diet Coke
+New Jersey , Monster Energy
+New Mexico , Ginger Ale
+New York , Faygo
+North Carolina , Root Beer
+North Dakota , Coke Zero
+Ohio , Faygo
+Oklahoma , Cream Soda
+Oregon , Dr. Pepper
+Pennsylvania , Iced Tea
+Rhode Island , Orange Soda
+South Carolina , Nehi
+South Dakota , Root Beer
+Tennessee , Lemonade
+Texas , Cream Soda
+Utah , Crush
+Vermont , Cream Soda
+Virginia , Fanta
+Washington , Green River Soda
+West Virginia , Mountain Dew
+Wisconsin , Jolly Good Soda
+Wyoming , Coke Zero

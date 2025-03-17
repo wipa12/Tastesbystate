@@ -1,0 +1,51 @@
+State, Topping
+Alabama, Mushroom
+Alaska, Pepperoni
+Arizona, Anchovy
+Arkansas, Bacon
+California, Pineapple
+Colorado, Basil
+Connecticut, Onions
+Delaware, Pepperoni
+Florida, Pineapple 
+Georgia, Mushrooms 
+Hawaii, Pineapple
+Idaho, Bacon
+Illinois, Sausage		
+Indiana, Sausage 		
+Iowa, Bacon					
+Kansas, Bacon 			
+Kentucky, Tomato 		
+Louisiana, Peppers	
+Maine, Peppers 			
+Maryland, Pineapple 
+Massachusetts, Pineapple
+Michigan, Bacon
+Minnesota, Olives 
+Mississippi, Pepperoni 
+Missouri, Pepperoni 
+Montana, Pepperoni
+Nebraska, Pineapple
+Nevada, Onions
+New Hampshire, Pepperoni
+New Jersey, Pineapple
+New Mexico, Anchovies
+New York, Extra cheese
+North Carolina, Olive
+North Dakota, Pepperoni 
+Ohio, Basil
+Oklahoma, Pepperoni
+Oregon, Pineapple
+Pennsylvania, Pepperoni 
+Rhode Island, Bacon
+South Carolina, Mushroom
+South Dakota, Bacon
+Tennessee, Mushrooms
+Texas, Pepperoni
+Utah, Pineapple
+Vermont, Extra cheese
+Virginia, Pineapple
+Washington, Onions
+West Virginia, Pepperoni
+Wisconsin, Sausage
+Wyoming, Pepperoni
